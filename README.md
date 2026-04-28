@@ -1,4 +1,4 @@
-# Parallel Programming Projects: Pthreads & OpenMP
+# Distributed Programming Projects: Pthreads & OpenMP
 
 This folder contains a collection of parallel programming applications developed using **Pthreads** and **OpenMP** in C. These projects were created as part of coursework and experimentation in high-performance computing and parallel processing.
 
