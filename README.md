@@ -13,6 +13,20 @@ This folder contains a collection of parallel programming applications developed
   - Reduction and critical sections
   - Parallel loops and sections
 
+## Project Structure
+
+### -> exer1_1: Monte Carlo Pi Estimation
+
+### -> exer1_2: Parallel Matrix Multiplication
+
+### -> exer1_3: Upper Triangular Matrix-Vector Multiplication
+
+### -> exer1_4: Custom Read-Write Locks
+
+### -> exer1_5: Atomic vs. Mutex Synchronization
+
+### -> exer1_6: Parallel Gaussian Elimination
+
 ## Requirements
 
 - GCC or Clang with Pthreads and OpenMP support  
